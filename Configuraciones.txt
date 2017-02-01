@@ -1,0 +1,13 @@
+Coursera
+	Configuracion guthub
+		-git config user.email "email@email.com"
+		-git config user.name "yourname"
+		-git clone https://myname.guthub...
+		-git status
+		-git add .
+		-git commit -m "Messagge"
+		-git push
+		
+	Iniciar browser-sync 
+		- browser-sync start --server --directory -- files "*"
+		
